@@ -154,13 +154,15 @@ link : https://drive.google.com/drive/mobile/folders/1U2ma5XUovl_SQNrcKG6WjZd88T
 
 
 ### (3) CRUD
-![image]()
+<img width="906" height="465" alt="스크린샷 2025-11-20 오전 10 59 44" src="https://github.com/user-attachments/assets/86e56538-329c-4eb4-8ec8-795a8691dfba" />
+
 
 
 
 ### (4) GitHub Action을 이용한 CI/CD(BE)
 
-![image]()
+<img width="958" height="465" alt="스크린샷 2025-11-20 오전 11 05 07" src="https://github.com/user-attachments/assets/581a1a8c-3fd2-4369-b19d-08d0f8586295" />
+
 
 ### (5) 배포
 - AWS : ec2, Vercel
