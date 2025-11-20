@@ -141,7 +141,8 @@ link : https://drive.google.com/drive/mobile/folders/1U2ma5XUovl_SQNrcKG6WjZd88T
 
 ### (1) 시스템 아키텍처
 
-![image]()
+<img width="984" height="519" alt="스크린샷 2025-11-20 오전 11 07 49" src="https://github.com/user-attachments/assets/47c9a8b2-74d7-4950-871c-1a75013356dc" />
+
 
 
 ### (2) Electron으로 만든 데스트톱 앱(.exe / .dmg)
